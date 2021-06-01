@@ -19,7 +19,7 @@ class News {
         text("To win Collect 2 vaccines", 236, 200)
         text("Collect sanitizers to remove the virus currently onscreen", 100, 300)
         text("Collect Masks to save the other people and score atthe other side too",2,370)
-        text("Press Space TO START", 500,100)
+        text("Press 'Enter' TO START", 500,100)
 
     //   this.reportingImg
      this.reportingBg.addImage(this.rep)
