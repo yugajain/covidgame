@@ -48,7 +48,7 @@ class Game {
       textSize(15)
       text("Vaccines req: 2", 600, 50);
       text("Vaccines: " + this.vaccinesCollected, 600, 100);
-      text("Other people saved: " + this.sc, 600,150)
+      text("Other cases prevented: " + this.sc, 600,150)
       textSize(20)
       text("Dodge the virus.Collect masks,sanitizers and vaccines ",60,90)
       this.bg.visible = true
